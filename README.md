@@ -1,4 +1,7 @@
 # mex_server
+
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
+
 基于Tornado的异步协程api服务
 
 ###
