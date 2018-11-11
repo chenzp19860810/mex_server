@@ -35,7 +35,7 @@ settings = dict(
     debug=DEBUG,
     serve_traceback=DEBUG,  # 错误跟踪
     xsrf_cookies=True,  # 开启 xsrf Token
-    cookie_secret="YzY1MzFlZDJkZGNkMDg0YTY0ZjU1YTdmMzRiOWY2MGU="
+    cookie_secret=""
 )
 
 
