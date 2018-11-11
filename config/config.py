@@ -35,8 +35,8 @@ DATABASE = dict(
 )
 
 
-REQUEST_AUTH_HEADER = 'X-AuthToken' # web 请求头
-APP_REQUEST_AUTH_HEADER = 'APP-AuthToken'  # app 请求头
+REQUEST_AUTH_HEADER = '' # web 请求头
+APP_REQUEST_AUTH_HEADER = ''  # app 请求头
 ### 移动端 MAC 地址
 APP_MAC_ADDRESS = ""
 
