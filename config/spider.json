@@ -1,9 +1,0 @@
-{
-  "name": "spider",
-  "version": "1.0.0",
-  "japonx": {
-      "host": "www.japonx.vip",
-      "ajax_api": "https://www.japonx.vip/portal/index/ajax_get_js.html?id=",
-      "play_api": "https://p.japronx.com/output/{0}/index.m3u8?md5={1}&expires={2}"
-  }
-}
